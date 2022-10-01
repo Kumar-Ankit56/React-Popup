@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+}
+.todolist{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 10%;
+}
